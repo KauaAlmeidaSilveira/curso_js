@@ -5,4 +5,3 @@ module.exports = {
     },
     test: 'Isso é um teste'
 }
-
