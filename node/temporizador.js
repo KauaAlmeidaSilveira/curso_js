@@ -2,7 +2,7 @@ const schedule = require('node-schedule')
 
 const regra = new schedule.RecurrenceRule()
 regra.dayOfWeek = [new schedule.Range(1, 6)]
-regra.hour = 20
+regra.hour = 10
 regra.second = 30
 
 
